@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VMF PRO\\Desktop\\RPG_DE_CONSOLE\\RPG_DE_CONSOLE.csproj": {}
+    "C:\\Users\\VMF PRO\\Desktop\\ALEXANDRE\\RPG_DE_CONSOLE\\RPG_DE_CONSOLE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VMF PRO\\Desktop\\RPG_DE_CONSOLE\\RPG_DE_CONSOLE.csproj": {
+    "C:\\Users\\VMF PRO\\Desktop\\ALEXANDRE\\RPG_DE_CONSOLE\\RPG_DE_CONSOLE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VMF PRO\\Desktop\\RPG_DE_CONSOLE\\RPG_DE_CONSOLE.csproj",
+        "projectUniqueName": "C:\\Users\\VMF PRO\\Desktop\\ALEXANDRE\\RPG_DE_CONSOLE\\RPG_DE_CONSOLE.csproj",
         "projectName": "RPG_DE_CONSOLE",
-        "projectPath": "C:\\Users\\VMF PRO\\Desktop\\RPG_DE_CONSOLE\\RPG_DE_CONSOLE.csproj",
+        "projectPath": "C:\\Users\\VMF PRO\\Desktop\\ALEXANDRE\\RPG_DE_CONSOLE\\RPG_DE_CONSOLE.csproj",
         "packagesPath": "C:\\Users\\VMF PRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VMF PRO\\Desktop\\RPG_DE_CONSOLE\\obj\\",
+        "outputPath": "C:\\Users\\VMF PRO\\Desktop\\ALEXANDRE\\RPG_DE_CONSOLE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VMF PRO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

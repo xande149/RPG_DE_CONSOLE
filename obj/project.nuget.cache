@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YpWrp0fiOfzz/N/zExfuTNNOu29YSx/UbyosY4iZtHf63NAW/MZc7wtB6fhKpJa/6cF/ky5xaz+eZtOa2uDGqw==",
+  "dgSpecHash": "YNNZpK5M6bzlvUk3GIDdnaRGoJ/VyVqmOaYu66hCy1J6aEz2FRNjgGJuMaJ/iT+AGf0xvQJZtxfk33vo4W0cPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VMF PRO\\Desktop\\RPG_DE_CONSOLE\\RPG_DE_CONSOLE.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\VMF PRO\\Desktop\\ALEXANDRE\\RPG_DE_CONSOLE\\RPG_DE_CONSOLE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VMF PRO\\.nuget\\packages\\litedb\\5.0.16\\litedb.5.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
